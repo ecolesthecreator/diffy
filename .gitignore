@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+Packages/
+
+# CocoaPods (if used)
+Pods/
+Podfile.lock
+
+# Carthage (if used)
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Secrets / credentials
+.netrc
+*.p12
+*.mobileprovision
+*.provisionprofile
+
+# IDE
+*.swp
+*~
+.vscode/
+.idea/
