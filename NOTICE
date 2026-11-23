@@ -1,0 +1,9 @@
+DiffView (diffy)
+Copyright 2025-2026 SciCoTherapy Labs LLC
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Diffs are computed with diff-match-patch (Apache-2.0, Google Inc.), via the
+DiffMatchPatch Swift package by Pasi Salenius (Apache-2.0). Swift Package
+Manager fetches it under its own license; no diff-match-patch code is
+included in this repository.
