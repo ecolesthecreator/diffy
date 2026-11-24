@@ -158,7 +158,7 @@ The diff algorithm is highly optimized and can handle:
 
 ## License
 
-This package uses Google's diff-match-patch library, which is licensed under Apache 2.0.
+Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Diffs are computed with Google's diff-match-patch, also Apache 2.0.
 
 ## Credits
 
